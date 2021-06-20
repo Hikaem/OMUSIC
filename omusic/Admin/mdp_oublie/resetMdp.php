@@ -39,7 +39,6 @@ if(isset($_POST['recup_submit'], $_POST['recup_email'])){ //Si le bouton submit 
                 
             // Mise en forme du message avec la fonction mail() !
                 $destinataire = $_POST["recup_email"];
-                //$url = "https://srv-prj-new.iut-acy.local/RT/1projet24/omusic/Admin/mdp_oublie/resetMdp.php?section=code&code='.$code.'";  //url avec le code vers la page de resetMdp.php
   
                 $headers = "From: O'MUSIC <no-reply@omusic.net>\r\n";
                 $headers .= "MIME-version: 1.0\r\n";  
