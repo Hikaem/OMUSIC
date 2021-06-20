@@ -1,0 +1,3 @@
+require ldap-group CN=RT-1projet24,OU=Projets,OU=Departements,OU=Groupes,OU=CG,DC=iut-acy,DC=local
+require ldap-group CN=RT-Equipe,OU=Departements,OU=Groupes,OU=CG,DC=iut-acy,DC=local
+require ldap-group CN=Service-Informatique,OU=Services,OU=Groupes,OU=CG,DC=iut-acy, DC=local
