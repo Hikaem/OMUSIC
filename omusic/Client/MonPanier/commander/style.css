@@ -1,0 +1,28 @@
+
+div.body{   
+    margin: 150px;
+    border-radius: 50px;
+    padding: 50px;
+    box-shadow: 1px 1px 12px #555;
+    margin-left: 250px;
+    margin-right: 250px;
+} 
+h1{
+    color: red;
+    text-decoration: underline;
+}
+img{
+    width: 30%;
+}
+div.a{
+    margin: 20px;
+}
+a{
+    border-radius: 20px;
+    background-color: cornflowerblue;
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}

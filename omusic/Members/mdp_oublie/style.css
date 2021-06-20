@@ -1,0 +1,80 @@
+/*RESET MDP*/
+.reset_mdp{
+    background-image: url('../../IMG/imgCon.jpg');
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.btn{
+    background-color: rgb(0, 119, 255);
+    border: none;
+    padding: 12px 28px;
+    margin: 5px;
+    vertical-align: middle;
+}
+.reset-form{
+    width: 700px;
+    margin: 50px auto;
+    background: #ffffff;
+    box-shadow: 0px 0.5px 2px rgba(0, 0, 0, 0.3);
+    justify-content: center;
+    padding: 30px;
+}
+.reset-form h1 {
+    text-align: center;
+}
+.reset-form p {
+    text-align: center;
+}
+.reset-form label {
+    margin: 0 0 15px;
+}
+.deco{
+    text-align: center;
+}
+.reset_mdp_a{
+    color: white;
+    text-decoration: none;
+}
+.reset_mdp_a:hover{
+    color: rgb(34, 34, 34);
+}
+#btn_mdp_btn{
+    background-color: grey;
+    border: none;
+}
+#btn_mdp_btn:hover{
+    background-color: rgb(180, 180, 180);
+}
+
+/*FIN MDP RESET*/
+
+
+/*ALERTBOX*/
+/* L'alerte */
+.alert {
+    padding: 15px;
+    background-color: #f44336; /* Red */
+    color: white;
+    margin-bottom: 15px;
+    opacity: 1;
+    transition: opacity 0.6s;
+    width: 500px;
+  }
+  
+  /* Le bouton de fermeture */
+  .closebtn {
+    margin-right: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  /* Quand la souris passe sûr le bouton de fermeture */
+  .closebtn:hover {
+    color: black;
+  }
+/*FIN ALERTBOX*/
