@@ -1,6 +1,9 @@
-It is the code of the website that I realized with one of my classmate, as an end-of-year project.
-The goal was to create a dynamic website, with a theme imposed by our teacher, so we had received as a theme, a store selling musical instrument.
+<h1>Welcome on O'MUSIC</h1>
 
-We has decide to call it "O'MUSIC".
-PHP was totally new for me and my classmate, so without a minute we had start to learn and code our website.
-And there is the result of one month and half of code.
+Here is the source code for the website I created with one of my classmates as part of an end-of-year school project.
+The goal was to create a dynamic and functional website on a given theme.
+
+We decided to call it ‘O'MUSIC’ because our project was to create a website dedicated to musical instruments.
+PHP was completely new to me and my classmate, so we immediately set about learning it and coding.
+
+Here is the result of a month and a half of work.
